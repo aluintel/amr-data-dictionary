@@ -12,9 +12,8 @@ Data files:
 -   hgt_wgt.csv
 -   dig_health_hub_amr_v2.csv
 
-I'm going to add a line of text
-
-
+I'm going to add a line of text.
+Adding new text
 ```{r}
 1 + 1
 ```
