@@ -14,6 +14,9 @@ Data files:
 
 I'm going to add a line of text.
 Try pulling data
+
+Ana is adding a change to the file locally
+
 ```{r}
 1 + 1
 ```
