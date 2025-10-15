@@ -10,10 +10,15 @@ Data files:
 
 -   gapminder_data.csv
 -   hgt_wgt.csv
--   dig_health_hub_amr_v5.csv
--   COOOOLLLLLIIINNNNN
-I'm going to add a line of text.
-Try pulling data
+-   dig_health_hub_amr_v2.csv
+
+fix merge issue
+efkljlsekp
+
+
+
+
+
 ```{r}
 1 + 1
 ```
